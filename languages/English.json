@@ -6,9 +6,9 @@
             "%now%",
             "&d",
             " &6&lSERVERS",
-            "&f    - &eSurvival&7: &f%amount of all players in world(\"\"Survival\"\")%",
-            "&f    - &6Main Box&7: &f%amount of all players in world(\"\"Main\"\")%",
-            "&f    - &cAnarchy Box&7: &f%amount of all players in world(\"\"Anarchy\"\")%"
+            "&f    - &eSurvival&7: &f%%amount of all players in world(\"\"Survival\"\")%%",
+            "&f    - &6Main Box&7: &f%%amount of all players in world(\"\"Main\"\")%%",
+            "&f    - &cAnarchy Box&7: &f%%amount of all players in world(\"\"Anarchy\"\")%%"
         ]
     }
 }
