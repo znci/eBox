@@ -1,6 +1,6 @@
 {
     "lobby": {
-        "selector": "&b&lMode Selector &7(RIGHT CLICK)",
+        "selector": "&a&lMode Selector &7(RIGHT CLICK)",
         "scoreboard": [
             "&eLobby",
             "%now%",
