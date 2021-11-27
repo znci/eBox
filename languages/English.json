@@ -1,14 +1,10 @@
 {
     "lobby": {
         "selector": "&a&lMode Selector &7(RIGHT CLICK)",
-        "scoreboard": [
-            "&eLobby",
-            "%now%",
-            "&d",
-            " &6&lSERVERS",
-            "&f    - &eSurvival&7: &f%(Survival)%",
-            "&f    - &6Main Box&7: &f%(Main)%",
-            "&f    - &cAnarchy Box&7: &f%(Anarchy)%"
+        "joinMessage": [
+            "&7"
+            "&6         &7Welcome back to &6eBox&7!"
+            "&7"
         ]
     }
 }
