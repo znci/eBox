@@ -1,1 +1,12 @@
-
+{
+    "dungeons": {
+        "jerry": {
+            "welcome": [
+                "Welcome to Dungeons, the place where I am the leader, so you must refer to me as &6Sir Dr Mr Cpt Prof. Jerryeth the Third&7.",
+                "I will give you a set of starter tools, however, you must promise to complete a few tasks for me.",
+                "Here you go.",
+                "Completing tasks will enable you to get money and unlock new tools."
+            ]
+        }
+    }
+}
