@@ -2,14 +2,14 @@
 
 Here are the eBox Public Language sources. All of these sources are in JSON format, and ***will not be changed to YAML*** after heavy consideration.
 
-### Contributing
+## Contributing
 
 **If you are contributing a lobby/minigame source...** please use English.json as an example file and work off that.
 
 **If you are contributing a specific game/dialogue source...** please use Dungeons/ files as a example. The `Jerry` file will be used as a template if you are
 Contributing dialogue.
 
-#### Steps for contributors
+### Steps for contributors
 
 1: Fork this repository.
 2: Create/edit the language file with the steps above.
