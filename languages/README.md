@@ -11,7 +11,7 @@ Contributing dialogue.
 
 ### Steps for contributors
 
-1: Fork this repository.
-2: Create/edit the language file with the steps above.
-3: Submit a pull request
-4: Wait for a response within 24 hours. Ping @zNotChill or @BlockArchitech if you do not see a response in a timely manner.
+- 1: Fork this repository.
+- 2: Create/edit the language file with the steps above.
+- 3: Submit a pull request
+- 4: Wait for a response within 24 hours. Ping @zNotChill or @BlockArchitech if you do not see a response in a timely manner.
