@@ -1,6 +1,6 @@
-## eBox Public Language Sources
+# eBox Public Language Sources
 
-Here are the eBox Public Language sources. All of these sources are in JSON format, and will not be changed to YAML after heavy consideration.
+Here are the eBox Public Language sources. All of these sources are in JSON format, and ***will not be changed to YAML*** after heavy consideration.
 
 ### Contributing
 
